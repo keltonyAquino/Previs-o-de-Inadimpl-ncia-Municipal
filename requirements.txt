@@ -1,0 +1,14 @@
+pandas
+numpy
+requests
+sqlalchemy
+psycopg2-binary
+scikit-learn
+xgboost
+lightgbm
+streamlit
+matplotlib
+seaborn
+python-dotenv
+sidrapy
+bcb
